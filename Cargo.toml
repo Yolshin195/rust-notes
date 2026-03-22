@@ -1,0 +1,7 @@
+[workspace]
+resolver = "3"
+members = [
+    "rust_note_01",
+    "rust_note_02",
+    "rust_note_03",
+]
